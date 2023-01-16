@@ -13,3 +13,10 @@ median(cars$dist)
 
 install.packages("fpp2")
 
+plot(sales)
+
+#find the mean value of the sales 
+head(carparts)
+mean(carparts)
+mode(carparts
+     )
