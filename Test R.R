@@ -10,3 +10,6 @@ mean(cars)
 head(cars)
 mean(cars$speed)
 median(cars$dist)
+
+install.packages("fpp2")
+
